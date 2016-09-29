@@ -1,4 +1,6 @@
-# Fortune 1000 Companies [![Build Status](https://travis-ci.org/bradybeck/fortune_1000_companies.svg?branch=master)](https://travis-ci.org/bradybeck/fortune_1000_companies)
+# Fortune 1000 Companies
+[![Pub](https://img.shields.io/pub/v/fortune_1000_companies.svg)](https://pub.dartlang.org/packages/random_users)
+[![Build Status](https://travis-ci.org/bradybeck/fortune_1000_companies.svg?branch=master)](https://travis-ci.org/bradybeck/fortune_1000_companies)
 
 
 Just a list of fortune_1000_companies to be used for the greater good.
