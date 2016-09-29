@@ -1,4 +1,4 @@
-# fortune_1000_companies
+# Fortune 1000 Companies
 
 Just a list of fortune_1000_companies to be used for the greater good.
 
