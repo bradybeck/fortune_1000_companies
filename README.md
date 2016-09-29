@@ -9,7 +9,7 @@ Just a list of fortune_1000_companies to be used for the greater good.
 import 'package:fortune_1000_companies/fortune_1000_companies.dart';
 
 main() {
-  fortune_1000_companies.forEach(print);
+  fortune_1000_companies.forEach(print); // A bunch of names...
 
   getRandomCompanyName(); // Safeway
   getRandomCompanyName(); // Walmart

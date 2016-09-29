@@ -1,4 +1,4 @@
-import 'package:fortune_1000_companies/companies.dart';
+import 'package:fortune_1000_companies/fortune_1000_companies.dart';
 import 'package:test/test.dart';
 
 void main() {
