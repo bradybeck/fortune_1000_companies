@@ -1,5 +1,5 @@
 # Fortune 1000 Companies
-[![Pub](https://img.shields.io/pub/v/fortune_1000_companies.svg)](https://pub.dartlang.org/packages/random_users)
+[![Pub](https://img.shields.io/pub/v/fortune_1000_companies.svg)](https://pub.dartlang.org/packages/fortune_1000_companies)
 [![Build Status](https://travis-ci.org/bradybeck/fortune_1000_companies.svg?branch=master)](https://travis-ci.org/bradybeck/fortune_1000_companies)
 
 
