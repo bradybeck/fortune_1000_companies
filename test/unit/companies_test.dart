@@ -9,6 +9,10 @@ void main() {
       });
     });
 
+    test('There are 1000 names in the list', () {
+      expect(companies.length, equals(1000));
+    });
+
     test('Safeway is safely in the list', () {
       expect(companies, contains('Safeway'));
     });
